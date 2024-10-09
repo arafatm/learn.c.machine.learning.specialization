@@ -1,12 +1,9 @@
 body {
     --blockquote-border-thickness: 0.5rem;
     --blockquote-border-color: var(--text-normal);
-    --bold-color: salmon;
-    --italic-color: goldenrod;
+    --bold-color: salmon !important;
+    --italic-color: black !important;
     --tag-color: cyan;
-    --h2-color: chocolate;
-    --h2-style: underline;
-    --h3-style: underline;
     --code-background: wheat;
     --code-normal: black;
 }
