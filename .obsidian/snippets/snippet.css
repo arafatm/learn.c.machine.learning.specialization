@@ -9,7 +9,7 @@
 .cm-s-obsidian span.cm-hashtag { color: cyan; }
 .cm-s-obsidian span.cm-inline-code { color: wheat;  font-weight: 100; }
 .cm-strong { color: salmon; }
-.HyperMD-quote { background-color: chocolate; }
+.HyperMD-quote { background: wheat !important; color: black; border-left: 2px solid #90241A !important; }
 div.internal-embed img:not([width]) { max-height: 30rem; border: 2px solid var(--text-normal); margin: 0; padding: 0;}
 img { max-height: 10em;}
 img:not([width]) {max-height: 5rem;}
