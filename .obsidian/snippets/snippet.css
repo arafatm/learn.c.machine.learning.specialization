@@ -1,11 +1,7 @@
 body {
-    --blockquote-border-thickness: 0.5rem;
-    --blockquote-border-color: var(--text-normal);
-    --bold-color: salmon !important;
-    --italic-color: black !important;
-    --tag-color: cyan;
-    --code-background: wheat;
-    --code-normal: black;
+    --code-normal: wheat;
+    --bold-color: salmon;
+    --italic-color: goldenrod;
 }
 /* cssclasses: readme */
 .readme.markdown-source-view.mod-cm7 .cm-table-widget .table-cell-wrapper { margin: 0; padding: 0; }
