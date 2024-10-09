@@ -4,7 +4,7 @@ title: Coursera - Machine Learning
 - [Coursera - Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction)
 - [Discourse - DeepLearning.AI](https://community.deeplearning.ai/top?period=daily)
 
-- [C1.W1.Introduction.to.Machine.Learning](C1.W1.Introduction.to.Machine.Learning.md)
+- [1.1 Introduction to Machine Learning](1.1%20Introduction%20to%20Machine%20Learning.md)
 
 - [[#1 What is machine learning?|1 What is machine learning?]]
 - [[#2 Supervised Learning: Regression Algorithms|2 Supervised Learning: Regression Algorithms]]
@@ -31,4 +31,4 @@ title: Coursera - Machine Learning
   - [[#Lab 04: Gradient descent|Lab 04: Gradient descent]]
   - [[#Quiz: Train the Model with Gradient Descent|Quiz: Train the Model with Gradient Descent]]
 
-- [C1.W2.Regression.with.Multiple.Input.Variables](C1.W2.Regression.with.Multiple.Input.Variables.md)
+- [1.2 Regression with Multiple Input Variables](1.2%20Regression%20with%20Multiple%20Input%20Variables.md)
