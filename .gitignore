@@ -1,0 +1,13 @@
+conflict-files-obsidian-git.md
+data.json
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/workspace-mobile.json
+
+.ipynb_checkpoints
+__pycache__
+
+*.swp
+.trash
+.DS_Store

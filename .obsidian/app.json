@@ -1,0 +1,14 @@
+{
+  "vimMode": true,
+  "readableLineLength": true,
+  "showLineNumber": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "./assets",
+  "alwaysUpdateLinks": true,
+  "trashOption": "none",
+  "useTab": false,
+  "promptDelete": false,
+  "strictLineBreaks": true,
+  "tabSize": 2
+}

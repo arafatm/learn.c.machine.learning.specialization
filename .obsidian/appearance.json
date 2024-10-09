@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "",
+  "baseFontSize": 20,
+  "textFontFamily": "Fira Code",
+  "monospaceFontFamily": "Fira Code",
+  "enabledCssSnippets": [
+    "snippet"
+  ],
+  "theme": "obsidian"
+}

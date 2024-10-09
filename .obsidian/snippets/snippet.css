@@ -1,0 +1,31 @@
+/* cssclasses: readme */
+.readme.markdown-source-view.mod-cm7 .cm-table-widget .table-cell-wrapper { margin: 0; padding: 0; }
+.readme.markdown-source-view.mod-cm6 .cm-table-widget th, .markdown-source-view.mod-cm6 .cm-table-widget td { min-width: 0.1rem; padding: 0 0rem; margin: 0; }
+
+/* Base elements */
+.cm-em { color: goldenrod; }
+.cm-quote{ color: var(--italic-color)}
+.cm-s-obsidian .cm-line.HyperMD-header { color: chocolate }
+.cm-s-obsidian span.cm-hashtag { color: cyan; }
+.cm-s-obsidian span.cm-inline-code { color: wheat;  font-weight: 100; }
+.cm-strong { color: salmon; }
+div.internal-embed img:not([width]) { max-height: 30rem; border: 2px solid var(--text-normal); margin: 0; padding: 0;}
+img { max-height: 10em;}
+img:not([width]) {max-height: 5rem;}
+mjx-math.MJX-TEX { color: palegoldenrod; font-size: 1.3rem; padding: 0.5rem 0.5rem; }
+
+/* Headers */
+.HyperMD-header-1 {background-color: #4a235a;}
+.HyperMD-header-1::before {content: '# '; font-size: 0.8rem;}
+.HyperMD-header-2 { border-bottom: 1px solid chocolate; }
+.HyperMD-header-2::before {content: '## ';  font-size: 0.8rem;}
+.HyperMD-header-3 { text-decoration: underline; }
+.HyperMD-header-3::before {content: '### '; font-size: 0.8rem;}
+.HyperMD-header-4::before {content: '#### '; font-size: 0.8rem;}
+.HyperMD-header-5::before {content: '##### '; font-size: 0.8rem;}
+.HyperMD-header-6::before {content: '###### '; font-size: 0.8rem;}
+.HyperMD-quote { border: 1px solid red; }
+
+/* tables */
+.markdown-preview-view table, .markdown-source-view.mod-cm6 table { border: 1px solid wheat; }
+.markdown-source-view.mod-cm6 .cm-table-widget .table-cell-wrapper { margin: 0rem 0.1rem; }
