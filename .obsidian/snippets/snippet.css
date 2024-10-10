@@ -3,8 +3,7 @@
 
 .MJX-TEX { color: palegoldenrod; } /*.MJX-TEX { line-height: 0.8rem; color: palegoldenrod; font-size: 1.2rem; padding: 0.5rem 0.5rem; } !important*/
 
-img { max-height: 15rem;}
-img:not([width]) {max-height: 15rem;}
+img { max-height: 20rem;}
 
 /* Header Indicators */
 h1::before, .HyperMD-header-1:not(.cm-active)::before { content: "H1 "; font-size: 0.7rem; margin-left: 0;}
