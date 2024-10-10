@@ -1,6 +1,6 @@
 {
   "vimMode": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "showLineNumber": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
@@ -10,5 +10,6 @@
   "useTab": false,
   "promptDelete": false,
   "strictLineBreaks": true,
-  "tabSize": 2
+  "tabSize": 2,
+  "focusNewTab": true
 }
