@@ -5,4 +5,4 @@ title: Coursera - Machine Learning
 - [Discourse - DeepLearning.AI](https://community.deeplearning.ai/top?period=daily)
 
 - [1.1.Introduction.to.Machine.Learning](1.1.Introduction.to.Machine.Learning.md)
-- [1.2 Regression with Multiple Input Variables](1.2%20Regression%20with%20Multiple%20Input%20Variables.md)
+- [1.2.Regression.with.Multiple.Input.Variables](1.2.Regression.with.Multiple.Input.Variables.md)
