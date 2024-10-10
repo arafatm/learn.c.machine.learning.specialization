@@ -1,6 +1,6 @@
 {
   "vimMode": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showLineNumber": true,
   "useMarkdownLinks": true,
   "showUnsupportedFiles": true,
