@@ -1,4 +1,5 @@
 body {
+    --font-text-size: 2rem;
     --code-normal: wheat;
     /*
     --h1-color: var(--h3-color);
