@@ -1,6 +1,22 @@
+.readme { --table-column-min-width: 0; }
+.readme.markdown-source-view.mod-cm6 .cm-table-widget .table-cell-wrapper { padding: 0 .2rem; }
+
+.MJX-TEX { color: palegoldenrod; } /*.MJX-TEX { line-height: 0.8rem; color: palegoldenrod; font-size: 1.2rem; padding: 0.5rem 0.5rem; } !important*/
+
+img { max-height: 15rem;}
+img:not([width]) {max-height: 15rem;}
+
+/* Header Indicators */
+h1::before, .HyperMD-header-1:not(.cm-active)::before { content: "H1 "; font-size: 0.7rem; margin-left: 0;}
+h2::before, .HyperMD-header-2:not(.cm-active)::before { content: "H2 "; font-size: 0.7rem; margin-left: 0;}
+h3::before, .HyperMD-header-3:not(.cm-active)::before { content: "H3 "; font-size: 0.7rem; margin-left: 0;}
+h4::before, .HyperMD-header-4:not(.cm-active)::before { content: "H4 "; font-size: 0.7rem; margin-left: 0;}
+h5::before, .HyperMD-header-5:not(.cm-active)::before { content: "H5 "; font-size: 0.7rem; margin-left: 0;}
+h6::before, .HyperMD-header-6:not(.cm-active)::before { content: "H6 "; font-size: 0.7rem; margin-left: 0;}
+
+
 body {
-    --font-text-size: 2rem;
-    --code-normal: wheat;
+    --code-normal: salmon;
     /*
     --h1-color: var(--h3-color);
     --h2-color: var(--h3-color);
@@ -23,24 +39,7 @@ body {
     */
 }
 
-/* Math blocks */
-/*.MJX-TEX { line-height: 0.8rem; color: palegoldenrod; font-size: 1.2rem; padding: 0.5rem 0.5rem; } !important*/
-.MJX-TEX { color: palegoldenrod; } !important
-
-/* Headers */
-.HyperMD-header-1::before {content: 'H1 '; font-size: 0.8rem;}
-.HyperMD-header-2::before {content: 'H2 '; font-size: 0.7rem;}
-.HyperMD-header-3::before {content: 'H3 '; font-size: 0.7rem;}
-.HyperMD-header-4::before {content: 'H4 '; font-size: 0.7rem;}
-.HyperMD-header-5::before {content: 'H5 '; font-size: 0.7rem;}
-.HyperMD-header-6::before {content: 'H6 '; font-size: 0.7rem;}
-
-/* cssclasses: readme */
-.readme.markdown-source-view.mod-cm7 .cm-table-widget .table-cell-wrapper { margin: 0; padding: 0; }
-.readme.markdown-source-view.mod-cm6 .cm-table-widget th, .markdown-source-view.mod-cm6 .cm-table-widget td { min-width: 0.1rem; padding: 0 0rem; margin: 0; }
 
 /* Base elements 
 div.internal-embed img:not([width]) { max-height: 30rem; border: 2px solid var(--text-normal); margin: 0; padding: 0;}
-img { max-height: 10em;}
-img:not([width]) {max-height: 5rem;}
 */
